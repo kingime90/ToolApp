@@ -1,0 +1,9 @@
+C:\Kingime\Tester\2017\ToolApp\FileCopy\bin\Debug\FileCopy.exe.config
+C:\Kingime\Tester\2017\ToolApp\FileCopy\bin\Debug\FileCopy.exe
+C:\Kingime\Tester\2017\ToolApp\FileCopy\bin\Debug\FileCopy.pdb
+C:\Kingime\Tester\2017\ToolApp\FileCopy\obj\Debug\FileCopy.csprojResolveAssemblyReference.cache
+C:\Kingime\Tester\2017\ToolApp\FileCopy\obj\Debug\FileCopy.MainForm.resources
+C:\Kingime\Tester\2017\ToolApp\FileCopy\obj\Debug\FileCopy.Properties.Resources.resources
+C:\Kingime\Tester\2017\ToolApp\FileCopy\obj\Debug\FileCopy.csproj.GenerateResource.Cache
+C:\Kingime\Tester\2017\ToolApp\FileCopy\obj\Debug\FileCopy.exe
+C:\Kingime\Tester\2017\ToolApp\FileCopy\obj\Debug\FileCopy.pdb
